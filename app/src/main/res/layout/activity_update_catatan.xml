@@ -40,6 +40,7 @@
         android:layout_alignParentRight="true"
         android:layout_margin="20dp"
         />
+    //10119292 Deri Muhamad Handipa If-7
 
 
 </RelativeLayout>

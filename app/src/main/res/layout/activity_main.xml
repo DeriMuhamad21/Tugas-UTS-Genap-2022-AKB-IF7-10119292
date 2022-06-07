@@ -20,5 +20,6 @@
         android:layout_gravity="start"
         app:headerLayout="@layout/nav_head"
         app:menu="@menu/menu_drawer"/>
+    //10119292 Deri Muhamad Handipa If-7
 
 </androidx.drawerlayout.widget.DrawerLayout>

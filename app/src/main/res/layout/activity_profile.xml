@@ -54,7 +54,8 @@
             android:layout_width="match_parent"
             android:layout_height="36dp"
             android:layout_marginTop="20dp"
-            android:text="Moto         - Semangat Belajar"
+            android:text="Email         - handipaderi05@gmail.com"
             android:textSize="15dp"/>
+        //10119292 Deri Muhamad Handipa If-7
     </LinearLayout>
 </LinearLayout>

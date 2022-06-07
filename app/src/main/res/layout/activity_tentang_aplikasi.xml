@@ -30,8 +30,9 @@
         android:layout_alignParentBottom="true"
         android:gravity="bottom|center"
         android:paddingBottom="30dp"
-        android:layout_below="@+id/versi"
-        android:text="10119292 Deri Muhamad Handipa"
+        android:text="10119292 Deri Muhamad Handipa IF7"
         android:textSize="15sp" />
+    //10119292 Deri Muhamad Handipa If-7
+
 
 </RelativeLayout>
